@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Layer: net/vpc/nb/nbetter/nbetter/layer.xml
+OpenIDE-Module-Localizing-Bundle: net/vpc/nb/nbetter/nbetter/Bundle.properties
+

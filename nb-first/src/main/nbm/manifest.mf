@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Layer: net/vpc/nb/nbfirst/layer.xml
+OpenIDE-Module-Localizing-Bundle: net/vpc/nb/nbfirst/Bundle.properties
+
